@@ -12,5 +12,5 @@ My name is Lorenz Gschwent, I am a PhD student in Economics at the [University o
 
 Current projects
 ======
-Censorship in Democracy (joined work with Marcel Caesmann, Janis Goldzycher, and Matteo Grigoletto)
+Censorship in Democracy (joined with Marcel Caesmann, Janis Goldzycher, and Matteo Grigoletto)
 

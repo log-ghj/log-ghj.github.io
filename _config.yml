@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 6c3ce0ea31b31a47
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - google6c3ce0ea31b31a47
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

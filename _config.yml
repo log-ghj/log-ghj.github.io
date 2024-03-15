@@ -266,7 +266,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-google_search_console_verification_file
 google_search_console:
   verification_file_code: 6c3ce0ea31b31a47
 # mimic GitHub Pages with --safe

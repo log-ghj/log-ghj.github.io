@@ -14,7 +14,6 @@ Current projects
 ======
 Censorship in Democracy (joined with Marcel Caesmann, Janis Goldzycher, and Matteo Grigoletto)
 
-Bibliometric Analysis of Health Economic Research (joined with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann)
+Bibliometric Analysis of Health Economic Research (joined with BjÃ¶rn Hammarfelt, Martin Karlsson, and Mathias Kifmann)
 
 The Effects of Vacancy Fees on House Prices (joined with Jakob Gutschlhofer)
-

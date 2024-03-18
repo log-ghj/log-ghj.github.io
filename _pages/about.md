@@ -16,4 +16,4 @@ Censorship in Democracy (joined with Marcel Caesmann, Janis Goldzycher, and Matt
 
 Bibliometric Analysis of Health Economic Research (joined with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann)
 
-The Effects of Vacancy Fees on House Prices (joined with Jakob Gutschlhofer)
+The Effect of a Vacancy Ban on German Housing Markets (joined with Jakob Gutschlhofer)

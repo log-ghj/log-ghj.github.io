@@ -12,8 +12,8 @@ I am a PhD student in Economics at the [University of Duisburg-Essen](https://ww
 
 Current projects
 ======
-Censorship in Democracy (joined with Marcel Caesmann, Janis Goldzycher, and Matteo Grigoletto)
+Censorship in Democracy (with Marcel Caesmann, Janis Goldzycher, and Matteo Grigoletto)
 
-Bibliometric Analysis of Health Economic Research (joined with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann)
+Bibliometric Analysis of Health Economic Research (with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann)
 
-The Effect of a Vacancy Ban on German Housing Markets (joined with Jakob Gutschlhofer)
+The Effect of a Vacancy Ban on German Housing Markets (with Jakob Gutschlhofer)

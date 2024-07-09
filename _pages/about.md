@@ -19,6 +19,6 @@ The spread of propaganda, misinformation, and biased narratives from autocratic 
 </details>
 <br>
 
-Bibliometric Analysis of Health Economic Research (with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann)
+The Rise of Health Economics: Transforming the Landscape of Economic Research (with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann)
 
 The Effect of a Vacancy Ban on German Housing Markets (with Jakob Gutschlhofer)

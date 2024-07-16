@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Various small examples for Introductory Econometrics (in German)"
 permalink: /teaching/
 author_profile: true
 ---

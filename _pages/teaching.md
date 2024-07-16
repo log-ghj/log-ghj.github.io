@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "Various small examples for Introductory Econometrics (in German)"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
+Various illustrations for Introductory Econometrics (in German)
+======
 [Visualisierung des Zentralen Grenzwertsatzes in R](https://colab.research.google.com/drive/1DjN7tGiLXlOaxgbNrLWck6zV-AgGq1PZ?usp=sharing)<br>
 
 [Visualisierung des Zentralen Grenzwertsatzes in Python](https://colab.research.google.com/drive/1Vl5389DnP5I4Z7e88GEs9ZPt3YtGCbvR?usp=sharing)<br>

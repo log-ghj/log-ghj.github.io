@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-##Various illustrations for Introductory Econometrics (in German)
+## Various illustrations for Introductory Econometrics (in German)
 
 [Visualisierung des Zentralen Grenzwertsatzes in R](https://colab.research.google.com/drive/1DjN7tGiLXlOaxgbNrLWck6zV-AgGq1PZ?usp=sharing)<br>
 

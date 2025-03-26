@@ -21,4 +21,4 @@ The spread of propaganda, misinformation, and biased narratives from autocratic 
 
 **The Rise of Health Economics: Transforming the Landscape of Economic Research** (with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann)
 
-**The Effect of a Vacancy Ban on German Housing Markets** (with Jakob Gutschlhofer)
+**Examining Examiner Leniency: Low-Quality Patents, Their Causes, and Their Consequences**

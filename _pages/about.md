@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Welcome
-I am a PhD student in Economics at the [University of Duisburg-Essen](https://www.vwl.msm.uni-due.de/en/home/) and a member of the Research Training Group 2484 [Regional Disaprities and Economic Policy](https://www.regional-disparities.de/). My main research interests are in Regional and Innovation Economics.
+I am a PhD student in Economics at the [University of Duisburg-Essen](https://www.vwl.msm.uni-due.de/en/home/) and a member of the Research Training Group 2484 [Regional Disaprities and Economic Policy](https://www.regional-disparities.de/). My main research interests are in Political Economy, Regional and Innovation Economics.
 
 ## Current projects
 **Censorship in Democracy** (with Marcel Caesmann, Janis Goldzycher, and Matteo Grigoletto)

@@ -20,7 +20,17 @@ The spread of propaganda, misinformation, and biased narratives from autocratic 
 <br>
 
 **The Rise of Health Economics: Transforming the Landscape of Economic Research** (with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann) Revise and Resubmit at Health Economics
+<details>
+<summary>Abstract </summary>
+This paper explores the evolving role of health economics within economic research and publishing over the past 30 years. Historically, largely a niche field, health economics has become increasingly prominent, with the share of health economics papers in top journals growing significantly. We aim to identify the factors behind this rise, examining how health economics contributes to the broader economic knowledge base and the roles distinct subfields play. Using a combination of bibliometric methods and natural language processing, we classify abstracts to define health economics. Our findings suggest that the mainstreaming of health economics is driven by innovative, high-quality research, with notable cyclicality in quality ratings that highlights the emergence and impact of distinct subfields within the discipline.
+</details>
+<br>
 
 **The Effect of a Vacancy Ban on German Housing Markets** (with Jakob Gutschlhofer)
 
-**Examining Examiner Leniency: Low-Quality Patents, Their Causes, and Their Consequences**
+**Quality, Scope, and Leniency: \\ Strategic Application Behavior at the US Patent Office**
+<details>
+<summary>Abstract </summary>
+Patent office outcomes significantly influence the quality and direction of innovation and technological growth. In this paper, I show how incentive misalignments between applicants and examiners at the US Patent and Trademark Office (USPTO) generate inefficiencies across the quality distribution of patent applications. I introduce a novel measurement of patent application quality based on state-of-the-art natural language processing (NLP) techniques. I use this measure to document novel stylized facts: higher-quality applications face lower acceptance rates but receive broader intellectual property rights when granted. To explain these patterns, I develop a theoretical model of strategic interaction between applicants and examiners. The model guides an empirical investigation that reveals a bimodal pattern of patents accepted due to lenient examiners over the distribution of quality. I show that this U-shaped distribution arises due to stronger incentives for low- and high-quality applicants to ``gamble" on lenient examiners when selecting the scope of their applications. These findings underscore the importance of USPTO reform targeting the underlying incentive structure and imply that uniform policy reforms may discourage high-quality patent applications.
+</details>
+<br>

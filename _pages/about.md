@@ -28,7 +28,7 @@ This paper explores the evolving role of health economics within economic resear
 
 **The Effect of a Vacancy Ban on German Housing Markets** (with Jakob Gutschlhofer)
 
-**Quality, Scope, and Leniency: \\ Strategic Application Behavior at the US Patent Office**
+**Quality, Scope, and Leniency: Strategic Application Behavior at the US Patent Office**
 <details>
 <summary>Abstract </summary>
 Patent office outcomes significantly influence the quality and direction of innovation and technological growth. In this paper, I show how incentive misalignments between applicants and examiners at the US Patent and Trademark Office (USPTO) generate inefficiencies across the quality distribution of patent applications. I introduce a novel measurement of patent application quality based on state-of-the-art natural language processing (NLP) techniques. I use this measure to document novel stylized facts: higher-quality applications face lower acceptance rates but receive broader intellectual property rights when granted. To explain these patterns, I develop a theoretical model of strategic interaction between applicants and examiners. The model guides an empirical investigation that reveals a bimodal pattern of patents accepted due to lenient examiners over the distribution of quality. I show that this U-shaped distribution arises due to stronger incentives for low- and high-quality applicants to ``gamble" on lenient examiners when selecting the scope of their applications. These findings underscore the importance of USPTO reform targeting the underlying incentive structure and imply that uniform policy reforms may discourage high-quality patent applications.

@@ -21,7 +21,7 @@ This paper explores the evolving role of health economics within economic resear
 
 
 ## Current projects
-**Censorship in Democracy** (with Marcel Caesmann, and Matteo Grigoletto)
+**Censorship in Democracy** (with Marcel Caesmann, and Matteo Grigoletto). Submitted
 <details>
 <summary>Abstract | <a href="https://log-ghj.github.io/files/CensorshipInDemocracy_Sep2025.pdf">Updated Draft</a> | <a href="https://www.zora.uzh.ch/id/eprint/260103/1/econwp446.pdf">Working Paper</a> | <a href="https://cepr.org/voxeu/columns/censorship-defend-democracy"> VoxEU Column </a> </summary>
 The spread of propaganda and misinformation from autocratic regimes is a growing concern in democracies. We study the European Union’s ban on Russian state-backed news outlets after the 2022 invasion of Ukraine, analyzing 677,780 tweets from 146,633 users with a difference-in-differences design in a daily panel. The ban reduced pro-Russian tweets by 10.9\% per active user day, with strongest effects among users directly connected to the banned outlets. We find no evidence of substitution to secondary suppliers. Evidence on mechanisms indicates that the ban curtailed pro-Russian content by removing key agenda-setters. Finally, we examine the costs of censorship in a democratic context: A pre-registered experiment finds reduced satisfaction with free speech, particularly among political centrists.

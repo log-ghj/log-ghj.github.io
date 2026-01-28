@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Welcome
-I am a PhD student in Economics at the [University of Duisburg-Essen](https://www.vwl.msm.uni-due.de/en/home/) and a member of the Research Training Group 2484 [Regional Disaprities and Economic Policy](https://www.regional-disparities.de/). My main research interests are in Political Economy, Regional and Innovation Economics.
+I am a PhD student in Economics at the [University of Duisburg-Essen](https://www.vwl.msm.uni-due.de/en/home/) and a member of the Research Training Group 2484 [Regional Disparities and Economic Policy](https://www.regional-disparities.de/). My main research interests are in Political Economy, Regional and Innovation Economics.
 
 ## Publications
 **The Rise of Health Economics: Transforming the Landscape of Economic Research** (with Björn Hammarfelt, Martin Karlsson, and Mathias Kifmann). Health Economics
@@ -28,8 +28,6 @@ The spread of propaganda and misinformation from autocratic regimes is a growing
 </details>
 <br>
 
-
-**The Effect of a Vacancy Ban on German Housing Markets** (with Jakob Gutschlhofer)
 
 **Quality, Scope, and Leniency: Strategic Application Behavior at the US Patent Office**
 <details>
